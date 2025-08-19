@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: linear-gradient(120deg, #0ea5e9 0%, #6366f1 50%, #a855f7 100%);
+}
+html, body, #__next { height: 100%; }
+body { @apply bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100; }
+.glass {
+  @apply bg-white/70 dark:bg-slate-900/50 backdrop-blur-xl border border-white/40 dark:border-slate-800/60 shadow-lg rounded-2xl;
+}
+.btn { @apply inline-flex items-center justify-center rounded-xl px-4 py-2 font-medium transition; }
+.btn-primary { @apply btn bg-brand-600 hover:bg-brand-700 text-white shadow-lg; }
+.btn-ghost { @apply btn bg-white/20 dark:bg-slate-800/40 hover:bg-white/30; }
+.card { @apply glass p-6; }
+.gradient-hero {
+  background-image: var(--bg);
+}
+.container-p { @apply max-w-6xl mx-auto px-4; }
+.badge { @apply text-xs px-2 py-1 rounded-full bg-white/30 dark:bg-slate-800/60 border border-white/40 dark:border-slate-700; }

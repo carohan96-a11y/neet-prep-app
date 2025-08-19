@@ -1,0 +1,866 @@
+[
+  {
+    "id": "phy-kin-1",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "For uniform acceleration, which graph is linear with non-zero slope?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Displacement\u2013time"
+      },
+      {
+        "key": "B",
+        "text": "Velocity\u2013time"
+      },
+      {
+        "key": "C",
+        "text": "Acceleration\u2013time"
+      },
+      {
+        "key": "D",
+        "text": "Jerk\u2013time"
+      }
+    ],
+    "answer": "B",
+    "explanation": "v\u2013t is linear; slope=acceleration."
+  },
+  {
+    "id": "chem-th-1",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "difficulty": "Medium",
+    "question": "Which is a state function?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Heat (q)"
+      },
+      {
+        "key": "B",
+        "text": "Work (w)"
+      },
+      {
+        "key": "C",
+        "text": "Enthalpy (H)"
+      },
+      {
+        "key": "D",
+        "text": "Path length"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Enthalpy depends on state."
+  },
+  {
+    "id": "bio-en-1",
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "difficulty": "Easy",
+    "question": "Which is NOT a property of enzymes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "They are biocatalysts"
+      },
+      {
+        "key": "B",
+        "text": "They are proteins (mostly)"
+      },
+      {
+        "key": "C",
+        "text": "They increase activation energy"
+      },
+      {
+        "key": "D",
+        "text": "They are specific"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Enzymes lower activation energy."
+  },
+  {
+    "id": "phy-kin-2",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-3",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-4",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-5",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-6",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-7",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-8",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-9",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "phy-kin-10",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "Easy",
+    "question": "A body starts from rest with acceleration a. Velocity after time t is?",
+    "options": [
+      {
+        "key": "A",
+        "text": "at"
+      },
+      {
+        "key": "B",
+        "text": "a/t"
+      },
+      {
+        "key": "C",
+        "text": "t/a"
+      },
+      {
+        "key": "D",
+        "text": "a+t"
+      }
+    ],
+    "answer": "A",
+    "explanation": "v=u+at; u=0."
+  },
+  {
+    "id": "chem-gas-1",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-2",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-3",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-4",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-5",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-6",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-7",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-8",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-9",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "chem-gas-10",
+    "subject": "Chemistry",
+    "chapter": "Gaseous State",
+    "difficulty": "Medium",
+    "question": "At constant temperature, PV = constant defines:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boyle\u2019s Law"
+      },
+      {
+        "key": "B",
+        "text": "Charles\u2019 Law"
+      },
+      {
+        "key": "C",
+        "text": "Avogadro\u2019s Law"
+      },
+      {
+        "key": "D",
+        "text": "Graham\u2019s Law"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Inverse relation between P and V at constant T."
+  },
+  {
+    "id": "bio-cell-1",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-2",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-3",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-4",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-5",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-6",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-7",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-8",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-9",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  },
+  {
+    "id": "bio-cell-10",
+    "subject": "Biology",
+    "chapter": "Cell",
+    "difficulty": "Easy",
+    "question": "Powerhouse of the cell is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Mitochondria generate ATP."
+  }
+]
